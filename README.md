@@ -12,7 +12,7 @@ function Food({fav}){<br>
 ## prop == property
 function App() {<br>
   return (<br>
-    <div><br>
+    <div>
       <Food fav="kimchi" /> <br>
     </div><br>
   );<br>
