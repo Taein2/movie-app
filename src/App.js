@@ -1,6 +1,7 @@
 import React from "react";
 import PropType from "prop-types";
 
+//class 형태
 class App extends React.Component{
   state = {
     //object
